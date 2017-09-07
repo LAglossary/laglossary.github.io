@@ -1,0 +1,7 @@
+{
+    "title": "The label/title of the concept",
+    "overview": 'Basic description in lay-terms',
+    "theory": 'Description of the theoretical background for the concept',
+    "formalisation": 'Formal definition of the concept if available',
+    "operationalisation": 'Description of the operationalisation of the concept, in code or algorithm'
+}
