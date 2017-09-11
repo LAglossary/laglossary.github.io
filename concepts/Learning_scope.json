@@ -1,0 +1,4 @@
+{
+    "title": "Learning Scope",
+    "overview": "A Learning Scope is generically defined in the following way: it is a Scope (which is an atomic concept that might be specialised differently depending on the context) that is the scope of a Learning Trajectory. Before focusing on the Learning Trajectory concept, we also need to specify what is the relation between a Learning Scope and a Learning Activity. Generally, an Activity can be within a Scope, but to be a Learning Activity, it has to also contribute to the scope. Again here, how an activity is contributing to a scope is highly dependent on the context and can only be defined generically. However, it is meant to encapsulate the idea that the Learning Scope at a given time represents the state of the learner's `cognitive system' and that contributing means generating an `irritation' in the form of `new or unexpected information'."
+}

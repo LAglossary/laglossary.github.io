@@ -1,0 +1,4 @@
+{
+    "title": "Difficulty",
+    "overview": "In case of games, we can derive a proxy for a game’s difficulty through the percentage of users that have successfully completed a game. From data on an individual learner’s success or failure in games, we can then derive a measure for his/her => ability in solving these games in comparison to other learners. If all the cames can be related to the same => topic and => learning scope, we can derive a competence measure for the learner with regard to the given topic."
+}

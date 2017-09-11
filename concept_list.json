@@ -1,0 +1,49 @@
+{
+    "Knowledge and Learning": {
+	"description" : "If we follow the usual notion of learning as ‘acquisition of knowledge’, we cannot discuss definitions of learning without discussing definitions of knowledge. We’ll start with the ‘traditional’ definition of knowledge as ‘justified true belief’ and the corresponding acquisition metaphor of learning before we turn to more modern approaches.",
+	"list": [   
+	    "metaphors_models_and_theories",
+	    "cognitive_model",
+	    "justified_true_belief_and_the_knowledge_acquisition_metaphor",
+	    "knowledge_as_a_social_phenomenon_and_the_participation_metaphor",
+	    "knowledge_construction_and_knowledge_as_discovery",
+	    "the_co-evolution_model_of_learning_and_knowledge_construction",
+	    "productive_friction_and_echo_chambers",
+	    "a_working_definition_of_knowledge_for_AFEL",
+	    "a_working_definition_of_learning_for_AFEL",
+	    "manifest_and_latent_properties"
+	]},
+    "User-Artifact-Interactions": {
+	"description": "",
+	"list" : [
+	    "browsing_activity",
+	    "extracting_the_scopes_of_online_browsing_activities",
+	    "measuring_the_contribution_of_an_activity_to_a_scope",
+	    "learning_activity",
+	    "learning_scope",
+	    "learning_trajectory",
+	    "progress"
+	]},
+    "Artifact Characteristics":{
+	"description": "",
+	"list" : [
+	    "topic_scope",
+	    "complexity",
+	    "difficulty",
+	    "popularity"
+	]},
+    "User Characteristics":{
+	"description": "",
+	"list" : [
+	    "interests",
+	    "competence",
+	    "learning_success_learning_outcomes",
+	    "personality",
+	    "motives_and_motivation",
+	    "traits_and_states",
+	    "mood_states",
+	    "cognitive_effort",
+	    "communities"
+	]}
+}
+

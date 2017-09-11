@@ -1,0 +1,4 @@
+{
+    "title": "Progress",
+    "overview": "Is complicated. In our model, progress is more or less the same as learning. Usually, you measure learning progress with standardized tests. That, we don’t have in AFEL. In case of games, we can derive a kind of progress measure from success and failure in the games, if we know the relative difficulty of the respective game (in terms of the ratio between successful and unsuccessful previous attempts by other users => difficulty). <br/> If we don’t have games, we can only derive measures of learning progress from topic characteristics such as the for example the => complexity or centrality (?) of learning resources. An indicator of learning progress (see learning) would for example be an increasing complexity/difficulty of the consumed artifacts."
+}

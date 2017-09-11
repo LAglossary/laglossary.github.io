@@ -1,0 +1,4 @@
+{
+    "title": "Browsing Activity",
+    "overview": "A BrowsingActivity is an activity that uses an online resource (to simplify). An OnlineResource is defined as a resource that is accessible through a URL."
+}
